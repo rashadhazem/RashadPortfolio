@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/RashadPortfolio/static/css/main.b53edfc7.css",
+    "main.js": "/RashadPortfolio/static/js/main.c6690357.js",
+    "static/js/415.4d6acbeb.chunk.js": "/RashadPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/RashadPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Jewlery.png": "/RashadPortfolio/static/media/Jewlery.33f1d0a20241fa32766a.png",
+    "static/media/DataAnalysis.jpg": "/RashadPortfolio/static/media/DataAnalysis.f22a9f31c294f850759d.jpg",
+    "static/media/RashadImg.jpg": "/RashadPortfolio/static/media/RashadImg.a8b77439ee26e35a60bf.jpg",
+    "static/media/PowerBi.jpg": "/RashadPortfolio/static/media/PowerBi.698d9ff8cc1a432d3db7.jpg",
+    "static/media/IBM.png": "/RashadPortfolio/static/media/IBM.2acb7e76fa10ff58c6f1.png",
+    "static/media/Aws.png": "/RashadPortfolio/static/media/Aws.b88f407d0ab7ad77ed6f.png",
+    "static/media/home-main.svg": "/RashadPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/RashadPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/DataMining.jpg": "/RashadPortfolio/static/media/DataMining.b7aa7b5f82ff21000879.jpg",
+    "static/media/mongoApp.jpg": "/RashadPortfolio/static/media/mongoApp.e52a3dcaca70020e169e.jpg",
+    "static/media/DEPI.jpg": "/RashadPortfolio/static/media/DEPI.5ab49bcf1aba871aa4fa.jpg",
+    "static/media/DPEI.jpg": "/RashadPortfolio/static/media/DPEI.4c2663573d916f42e9f1.jpg",
+    "static/media/Rashad hazem ali.pdf": "/RashadPortfolio/static/media/Rashad hazem ali.306033033d8304c989f7.pdf",
+    "static/media/Recommendy.jpg": "/RashadPortfolio/static/media/Recommendy.e5c740688af71a4bd9e4.jpg",
+    "static/media/home-bg.jpg": "/RashadPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/RashadPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/RashadPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/RashadPortfolio/index.html",
+    "main.b53edfc7.css.map": "/RashadPortfolio/static/css/main.b53edfc7.css.map",
+    "main.c6690357.js.map": "/RashadPortfolio/static/js/main.c6690357.js.map",
+    "415.4d6acbeb.chunk.js.map": "/RashadPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/RashadPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53edfc7.css",
+    "static/js/main.c6690357.js"
+  ]
+}
