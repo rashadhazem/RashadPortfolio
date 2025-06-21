@@ -9,6 +9,8 @@ import dpei1 from "../../Assets/certifications/DEPI.jpg"; // مثال: صورة 
 import depi2 from "../../Assets/certifications/DPEI.jpg";
 import aws from "../../Assets/certifications/Aws.png";
 import ibm from "../../Assets/certifications/IBM.png";
+import efe from "../../Assets/certifications/efe.png";
+import sss from "../../Assets/certifications/SSSS.png";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
@@ -67,6 +69,12 @@ function ResumeNew() {
           </Col>
           <Col md={6} lg={4} className="mb-4">
             <img src={ibm} alt="Certificate 4" className="img-fluid rounded shadow" />
+          </Col>
+          <Col md={6} lg={4} className="mb-4">
+            <img src={efe} alt="Certificate 5" className="img-fluid rounded shadow" />
+          </Col>
+          <Col md={6} lg={4} className="mb-4">
+            <img src={sss} alt="Certificate 6" className="img-fluid rounded shadow" />
           </Col>
           {/* أضف المزيد من الشهادات هنا بنفس الطريقة */}
         </Row>
