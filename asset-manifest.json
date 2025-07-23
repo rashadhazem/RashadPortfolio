@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/RashadPortfolio/static/css/main.b53edfc7.css",
-    "main.js": "/RashadPortfolio/static/js/main.c6690357.js",
+    "main.js": "/RashadPortfolio/static/js/main.b1527404.js",
     "static/js/415.4d6acbeb.chunk.js": "/RashadPortfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RashadPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Jewlery.png": "/RashadPortfolio/static/media/Jewlery.33f1d0a20241fa32766a.png",
     "static/media/DataAnalysis.jpg": "/RashadPortfolio/static/media/DataAnalysis.f22a9f31c294f850759d.jpg",
+    "static/media/efe.png": "/RashadPortfolio/static/media/efe.c99071e77ca714a395f7.png",
     "static/media/RashadImg.jpg": "/RashadPortfolio/static/media/RashadImg.a8b77439ee26e35a60bf.jpg",
+    "static/media/SSSS.png": "/RashadPortfolio/static/media/SSSS.86746ad941600ce57b10.png",
     "static/media/PowerBi.jpg": "/RashadPortfolio/static/media/PowerBi.698d9ff8cc1a432d3db7.jpg",
     "static/media/IBM.png": "/RashadPortfolio/static/media/IBM.2acb7e76fa10ff58c6f1.png",
     "static/media/Aws.png": "/RashadPortfolio/static/media/Aws.b88f407d0ab7ad77ed6f.png",
@@ -23,12 +25,12 @@
     "static/media/pre.svg": "/RashadPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/RashadPortfolio/index.html",
     "main.b53edfc7.css.map": "/RashadPortfolio/static/css/main.b53edfc7.css.map",
-    "main.c6690357.js.map": "/RashadPortfolio/static/js/main.c6690357.js.map",
+    "main.b1527404.js.map": "/RashadPortfolio/static/js/main.b1527404.js.map",
     "415.4d6acbeb.chunk.js.map": "/RashadPortfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RashadPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b53edfc7.css",
-    "static/js/main.c6690357.js"
+    "static/js/main.b1527404.js"
   ]
 }
