@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RashadPortfolio/static/css/main.75544f4b.css",
-    "main.js": "/RashadPortfolio/static/js/main.f3b8c0b8.js",
+    "main.js": "/RashadPortfolio/static/js/main.ddec46d3.js",
     "static/js/415.4d6acbeb.chunk.js": "/RashadPortfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RashadPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Screenshot (79).png": "/RashadPortfolio/static/media/Screenshot (79).5288e3b202911d84d900.png",
@@ -63,12 +63,12 @@
     "static/media/pre.svg": "/RashadPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/RashadPortfolio/index.html",
     "main.75544f4b.css.map": "/RashadPortfolio/static/css/main.75544f4b.css.map",
-    "main.f3b8c0b8.js.map": "/RashadPortfolio/static/js/main.f3b8c0b8.js.map",
+    "main.ddec46d3.js.map": "/RashadPortfolio/static/js/main.ddec46d3.js.map",
     "415.4d6acbeb.chunk.js.map": "/RashadPortfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RashadPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75544f4b.css",
-    "static/js/main.f3b8c0b8.js"
+    "static/js/main.ddec46d3.js"
   ]
 }
