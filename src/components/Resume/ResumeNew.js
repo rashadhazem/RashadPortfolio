@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row ,Col} from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/Rashad hazem ali.pdf";
+import pdf from "../../Assets/../Assets/Rashad hazem MERN Stack.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import dpei1 from "../../Assets/certifications/DEPI.jpg"; // مثال: صورة شهادة
