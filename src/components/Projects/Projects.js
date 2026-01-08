@@ -14,6 +14,11 @@ import dataMining5 from "../../Assets/Projects/1736884779901.jpeg";
 import dataMining6 from "../../Assets/Projects/1736884780055.jpeg";
 import dataMining7 from "../../Assets/Projects/1736884780128.jpeg";
 import Recommendy from "../../Assets/Projects/Recommendy.jpg";
+import recommendy2 from "../../Assets/Projects/Screenshot (42).png";
+import recommendy3 from "../../Assets/Projects/Screenshot (52).png";
+import recommendy4 from "../../Assets/Projects/Screenshot (57).png";
+import recommendy5 from "../../Assets/Projects/Screenshot (60).png";
+import recommendy6 from "../../Assets/Projects/Screenshot (61).png";
 import jewlery from "../../Assets/Projects/Jewlery.png";
 import jewlery2 from "../../Assets/Projects/Screenshot (68).png";
 import jewlery3 from "../../Assets/Projects/Screenshot (69).png";
@@ -47,6 +52,33 @@ import recommendbook5 from "../../Assets/Projects/Screenshot (98).png";
 import recommendbook6 from "../../Assets/Projects/Screenshot (99).png";
 import recommendbook7 from "../../Assets/Projects/Screenshot (100).png";
 import recommendbook8 from "../../Assets/Projects/Screenshot (101).png";
+import CareMallCover from "../../Assets/Projects/Screenshot (231).png";
+import carMall1 from "../../Assets/Projects/Screenshot (232).png";
+import carMall2 from "../../Assets/Projects/Screenshot (233).png";
+import carMall3 from "../../Assets/Projects/Screenshot (234).png";
+import carMall4 from "../../Assets/Projects/Screenshot (235).png";
+import carMall5 from "../../Assets/Projects/Screenshot (236).png";
+import carMall6 from "../../Assets/Projects/Screenshot (237).png";
+
+import QuazaCover from "../../Assets/Projects/Screenshot (119).png";
+import quaza1 from "../../Assets/Projects/Screenshot (120).png";
+import quaza2 from "../../Assets/Projects/Screenshot (121).png";
+import quaza3 from "../../Assets/Projects/Screenshot (122).png";
+import quaza4 from "../../Assets/Projects/Screenshot (123).png";
+import quaza5 from "../../Assets/Projects/Screenshot (124).png";
+import quaza6 from "../../Assets/Projects/Screenshot (125).png";
+import quaza7 from "../../Assets/Projects/Screenshot (126).png";
+import quaza8 from "../../Assets/Projects/Screenshot (127).png";
+
+
+import HospitalCover from "../../Assets/Projects/Screenshot (179).png";
+import hospital1 from "../../Assets/Projects/Screenshot (180).png";
+import hospital2 from "../../Assets/Projects/Screenshot (181).png";
+import hospital3 from "../../Assets/Projects/Screenshot (182).png";
+import hospital4 from "../../Assets/Projects/Screenshot (183).png";
+import hospital5 from "../../Assets/Projects/Screenshot (184).png";
+import hospital6 from "../../Assets/Projects/Screenshot (175).png";
+
 
 function Projects() {
   return (
@@ -60,6 +92,40 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CareMallCover}
+              images={[CareMallCover, carMall1, carMall2, carMall3, carMall4, carMall5, carMall6]}
+              isBlog={false}
+              title="Care Mall eCommerce Platform "
+              description="As a full-stack developer, I created a comprehensive eCommerce platform for Mall using the MERN stack. The frontend was built with React.js to provide a seamless and engaging user experience, while the backend utilized Node.js and Express.js to handle API requests, user authentication, and order management. MongoDB was employed as the database to store product information, user data, and transaction records. The platform features a responsive design, secure payment processing, and an intuitive interface for browsing and purchasing vehicles."
+              ghLink="https://github.com/rashadhazem/Care-Mall-Front"
+              demoLink="https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2FE7314DAF01A40444%21s80392aa5975b47a0912bd30876e54c75%3Fithint%3Dvideo%26migratedtospo%3Dtrue&cid=E7314DAF01A40444&id=E7314DAF01A40444%21s80392aa5975b47a0912bd30876e54c75&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy9lNzMxNGRhZjAxYTQwNDQ0L0lRQ2xLam1BVzVlZ1I1RXIwd2gyNVV4MUFhYVlxT1hyX0tjSDZNNTZiX3pyVUc0&v=photos"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={QuazaCover}
+              images={[QuazaCover, quaza1, quaza2, quaza3, quaza4, quaza5, quaza6, quaza7, quaza8]}
+              isBlog={false}
+              title="Quaza E-Learning Platform "
+              description="As a full-stack developer, I built Quaza, an e-learning platform using the MERN stack. The frontend was developed with React.js to create an interactive and user-friendly interface for students and instructors. The backend utilized Node.js and Express.js to manage API requests, user authentication, course management, and content delivery. MongoDB served as the database to store user profiles, course materials, and progress tracking. The platform features responsive design, secure access to courses, and tools for instructors to create and manage their content effectively."
+              ghLink="https://github.com/rashadhazem/Quaza"
+              demoLink="https://www.linkedin.com/posts/rashad-hazem-24623b286_mern-fullstackdeveloper-dataanalysis-activity-7369008663811780608-Inpu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVyNpYBsr_-7x-0SJ2eRdLOa9lBEv0yx94"
+            />
+          </Col>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={HospitalCover}
+              images={[HospitalCover, hospital1, hospital2, hospital3, hospital4, hospital5, hospital6]}
+              isBlog={false}
+              title="Hospital Management System"
+              description="As a full-stack developer, I created a comprehensive Hospital Management System using the MERN stack. The frontend was built with React.js to provide a seamless and engaging user experience for patients and staff. The backend was developed with Node.js and Express.js to handle API requests, user authentication, and appointment scheduling. MongoDB was used as the database to store patient records, medical history, and appointment details. The system features responsive design, secure data handling, and an intuitive interface for managing hospital operations."
+              ghLink="https://github.com/rashadhazem/Hospital-system"
+              demoLink="https://www.linkedin.com/posts/rashad-hazem-24623b286_react-webdevelopment-javascript-activity-7403780503423672320-cj3j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVyNpYBsr_-7x-0SJ2eRdLOa9lBEv0yx94"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={powerbi}
@@ -84,6 +150,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Recommendy}
+              images={[Recommendy, recommendy2, recommendy3, recommendy4, recommendy5, recommendy6]}
               isBlog={false}
               title="Recommendy system"
               description="The web application helps students find scholarships and internships. Students can upload their 
